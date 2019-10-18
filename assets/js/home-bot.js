@@ -229,7 +229,7 @@ var prestations = function () {
             }).then(function () {
               botui.message.add({
                 delay: 1500,
-                content: '!(book) [Look docs.botui.org](https://docs.botui.org), or see my account! (instagram) [Instagram](https://www.instagram.com/rodolphe_photography/)'
+                content: '!(book) [Look docs.botui.org](https://docs.botui.org), or see my account !(instagram) [Instagram](https://www.instagram.com/rodolphe_photography/)'
               })
             })
           })
